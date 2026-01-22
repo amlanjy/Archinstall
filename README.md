@@ -1,7 +1,7 @@
 Minimal Arch Installer
 ======================
 
-#Personal and Personalhyp2 will break your system its for my specific hardware
+# Personal and Personalhyp2 will break your system its for my specific hardware
 
 A minimal, automated Arch Linux installer focused on clarity, control, and zero bloat.
 
